@@ -5,8 +5,10 @@ Tomado de <https://faheemkhan97.hashnode.dev/the-new-operator-calling-a-function
 
 ## Ejemplos que se revisar
 
-1. Crear tipos nativos
-2. this dentro de las funciones (hay 4 ejemplos)
+1. Crear un objeto de tipo nativo con la palabra clave 'new'
+2. Crear un objeto desde una función sin utilizar la palabra 'new'
+3. Crear un objeto desde una función utilizando la palabra clave 'new'
+4. Crear un objeto a partir de una clase utilizando la palabra clave 'new'
 
 ## Forma de ver estos ejemplos
 
